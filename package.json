@@ -1,0 +1,15 @@
+{
+  "name": "barba",
+  "version": "1.0.0",
+  "description": "Learn Barba.js",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijeet Kumar (abhijeetkumar_1992@yahoo.in)",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1"
+  }
+}
